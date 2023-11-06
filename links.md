@@ -84,3 +84,5 @@
 - https://stackoverflow.com/a/61888863/1445946
 - https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01085/106912/Measuring-Commuting-and-Economic-Activity-Inside?redirectedFrom=fulltext
 - https://lirneasia.net/2019/02/lirneasia-researcher-nominated-for-a-nebula-award/
+- https://www.secureflag.com/s?54b3112f-8bbd-48ff-b612-83dfe222d951
+- https://www.secureflag.com/b?2308b252-92eb-4c58-a7d1-de34911b56e0
